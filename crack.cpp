@@ -94,7 +94,7 @@ void hack::add()
               
            else
                
-               cout<<"not null\n"; */
+               cout<<"not null\n";
                
            strcpy(guess, " ");
            
